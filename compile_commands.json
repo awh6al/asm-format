@@ -1,0 +1,766 @@
+[
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/src/asm8086/asm8086Visitor.cpp.o", "src/asm8086/asm8086Visitor.cpp"],
+  "file": "src/asm8086/asm8086Visitor.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/src/asm8086/asm8086Parser.cpp.o", "src/asm8086/asm8086Parser.cpp"],
+  "file": "src/asm8086/asm8086Parser.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/src/asm8086/asm8086BaseVisitor.cpp.o", "src/asm8086/asm8086BaseVisitor.cpp"],
+  "file": "src/asm8086/asm8086BaseVisitor.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/src/asm8086/asm8086Lexer.cpp.o", "src/asm8086/asm8086Lexer.cpp"],
+  "file": "src/asm8086/asm8086Lexer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/InterpreterRuleContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/InterpreterRuleContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/InterpreterRuleContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/FailedPredicateException.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/FailedPredicateException.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/FailedPredicateException.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Lexer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Lexer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Lexer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BailErrorStrategy.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BailErrorStrategy.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BailErrorStrategy.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/UnbufferedTokenStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/UnbufferedTokenStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/UnbufferedTokenStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenStreamRewriter.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenStreamRewriter.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenStreamRewriter.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/DiagnosticErrorListener.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/DiagnosticErrorListener.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/DiagnosticErrorListener.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRFileStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRFileStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRFileStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuleContextWithAltNum.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuleContextWithAltNum.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuleContextWithAltNum.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Vocabulary.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Vocabulary.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Vocabulary.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ProxyErrorListener.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ProxyErrorListener.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ProxyErrorListener.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/UnbufferedCharStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/UnbufferedCharStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/UnbufferedCharStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/StringUtils.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/StringUtils.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/StringUtils.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Guid.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Guid.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Guid.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Any.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Any.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Any.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Arrays.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Arrays.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/Arrays.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/CPPUtils.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/CPPUtils.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/support/CPPUtils.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonTokenStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonTokenStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonTokenStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/WritableToken.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/WritableToken.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/WritableToken.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRErrorStrategy.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRErrorStrategy.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRErrorStrategy.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BaseErrorListener.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BaseErrorListener.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BaseErrorListener.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuntimeMetaData.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuntimeMetaData.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuntimeMetaData.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/LexerInterpreter.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/LexerInterpreter.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/LexerInterpreter.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ParserInterpreter.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ParserInterpreter.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ParserInterpreter.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/InputMismatchException.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/InputMismatchException.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/InputMismatchException.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRErrorListener.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRErrorListener.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRErrorListener.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ListTokenSource.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ListTokenSource.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ListTokenSource.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ConsoleErrorListener.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ConsoleErrorListener.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ConsoleErrorListener.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Token.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Token.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Token.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Exceptions.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Exceptions.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Exceptions.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Parser.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Parser.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Parser.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/LexerNoViableAltException.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/LexerNoViableAltException.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/LexerNoViableAltException.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/EpsilonTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/EpsilonTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/EpsilonTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SingletonPredictionContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SingletonPredictionContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SingletonPredictionContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ContextSensitivityInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ContextSensitivityInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ContextSensitivityInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNDeserializationOptions.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNDeserializationOptions.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNDeserializationOptions.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/WildcardTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/WildcardTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/WildcardTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BasicBlockStartState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BasicBlockStartState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BasicBlockStartState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerTypeAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerTypeAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerTypeAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerATNSimulator.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerATNSimulator.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerATNSimulator.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNSerializer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNSerializer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNSerializer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarBlockStartState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarBlockStartState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarBlockStartState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerPushModeAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerPushModeAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerPushModeAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarLoopEntryState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarLoopEntryState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarLoopEntryState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerATNConfig.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerATNConfig.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerATNConfig.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerMoreAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerMoreAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerMoreAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AmbiguityInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AmbiguityInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AmbiguityInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionEventInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionEventInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionEventInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredicateTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredicateTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredicateTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNSimulator.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNSimulator.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNSimulator.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerCustomAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerCustomAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerCustomAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/NotSetTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/NotSetTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/NotSetTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LookaheadEventInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LookaheadEventInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LookaheadEventInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerPopModeAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerPopModeAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerPopModeAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ErrorInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ErrorInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ErrorInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BasicState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BasicState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BasicState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/DecisionInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerChannelAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerChannelAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerChannelAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PrecedencePredicateTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PrecedencePredicateTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PrecedencePredicateTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PlusLoopbackState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PlusLoopbackState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PlusLoopbackState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ParserATNSimulator.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ParserATNSimulator.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ParserATNSimulator.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNConfigSet.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNConfigSet.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNConfigSet.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AbstractPredicateTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AbstractPredicateTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AbstractPredicateTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SemanticContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SemanticContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SemanticContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNDeserializer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNDeserializer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNDeserializer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SetTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SetTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/SetTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleStartState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleStartState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleStartState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNConfig.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNConfig.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATNConfig.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/EmptyPredictionContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/EmptyPredictionContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/EmptyPredictionContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ArrayPredictionContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ArrayPredictionContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ArrayPredictionContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerSkipAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerSkipAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerSkipAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredictionMode.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredictionMode.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredictionMode.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerIndexedCustomAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerIndexedCustomAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerIndexedCustomAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/OrderedATNConfigSet.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/OrderedATNConfigSet.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/OrderedATNConfigSet.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATN.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATN.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ATN.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/TokensStartState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/TokensStartState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/TokensStartState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerActionExecutor.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerActionExecutor.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerActionExecutor.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PlusBlockStartState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PlusBlockStartState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PlusBlockStartState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ActionTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ActionTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ActionTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarLoopbackState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarLoopbackState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/StarLoopbackState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ParseInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ParseInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/ParseInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleStopState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleStopState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RuleStopState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredicateEvalInfo.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredicateEvalInfo.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredicateEvalInfo.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerModeAction.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerModeAction.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LexerModeAction.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredictionContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredictionContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/PredictionContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RangeTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RangeTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/RangeTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/Transition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/Transition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/Transition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BlockStartState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BlockStartState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BlockStartState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LoopEndState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LoopEndState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/LoopEndState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BlockEndState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BlockEndState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/BlockEndState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AtomTransition.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AtomTransition.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/atn/AtomTransition.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RecognitionException.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RecognitionException.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RecognitionException.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ErrorNodeImpl.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ErrorNodeImpl.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ErrorNodeImpl.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/TerminalNodeImpl.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/TerminalNodeImpl.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/TerminalNodeImpl.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TagChunk.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TagChunk.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TagChunk.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreePattern.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreePattern.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreePattern.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/Chunk.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/Chunk.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/Chunk.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreeMatch.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreeMatch.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreeMatch.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TextChunk.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TextChunk.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TextChunk.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TokenTagToken.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TokenTagToken.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/TokenTagToken.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/RuleTagToken.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/RuleTagToken.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/RuleTagToken.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/pattern/ParseTreePatternMatcher.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeListener.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeListener.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeListener.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTree.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTree.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTree.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathTokenAnywhereElement.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathWildcardAnywhereElement.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathElement.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathElement.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathElement.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathTokenElement.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathTokenElement.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathTokenElement.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathRuleElement.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathRuleElement.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathRuleElement.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathWildcardElement.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathWildcardElement.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathWildcardElement.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathLexerErrorListener.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathLexerErrorListener.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathLexerErrorListener.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPath.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPath.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPath.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/xpath/XPathRuleAnywhereElement.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/TerminalNode.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/TerminalNode.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/TerminalNode.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/Trees.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/Trees.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/Trees.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ErrorNode.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ErrorNode.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ErrorNode.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeVisitor.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeVisitor.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeVisitor.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeWalker.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeWalker.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/ParseTreeWalker.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/IterativeParseTreeWalker.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/IterativeParseTreeWalker.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/tree/IterativeParseTreeWalker.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/IntStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/IntStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/IntStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonToken.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonToken.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonToken.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenSource.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenSource.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/TokenSource.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ParserRuleContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ParserRuleContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ParserRuleContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/NoViableAltException.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/NoViableAltException.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/NoViableAltException.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/DefaultErrorStrategy.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/DefaultErrorStrategy.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/DefaultErrorStrategy.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRInputStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRInputStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/ANTLRInputStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BufferedTokenStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BufferedTokenStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/BufferedTokenStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFAState.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFAState.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFAState.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFA.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFA.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFA.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFASerializer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFASerializer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/DFASerializer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/LexerDFASerializer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/LexerDFASerializer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/dfa/LexerDFASerializer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/Predicate.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/Predicate.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/Predicate.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/Interval.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/Interval.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/Interval.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/InterpreterDataReader.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/InterpreterDataReader.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/InterpreterDataReader.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/MurmurHash.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/MurmurHash.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/MurmurHash.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/IntervalSet.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/IntervalSet.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/misc/IntervalSet.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CharStream.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CharStream.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CharStream.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Recognizer.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Recognizer.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/Recognizer.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuleContext.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuleContext.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/RuleContext.cpp"
+},
+{
+  "directory": "/home/wahabz/Code/cpp/asm-format",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-Isrc/asm8086", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src", "-I/home/wahabz/Code/cpp/asm-format/.xmake/linux/x86_64/repositories/cxxopts/include", "-std=c++20", "-o", "build/.objs/asm-format/linux/x86_64/debug/.xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonTokenFactory.cpp.o", ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonTokenFactory.cpp"],
+  "file": ".xmake/linux/x86_64/repositories/antlr4/runtime/Cpp/runtime/src/CommonTokenFactory.cpp"
+}]
